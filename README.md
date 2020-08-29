@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Submission for Week 3 : password_Generator
 
 // My goals included:
@@ -33,3 +34,6 @@ Brandon Burrus -TA
 
 
 - - -
+=======
+
+>>>>>>> 891c2a3f6816a91be9693757979d3cdba04b4547
